@@ -15,7 +15,7 @@
 🌐 Check out my portfolio website here: [Portfolio Site](http://francisyang.com)
 
 ### Here's what I've been using lately
-[![Technologies](https://skillicons.dev/icons?i=js,blender,discord,figma,git,github,gitlab,gmail,graphql,herokou,html,css,jest,jquery,linkedin,mongodb,mysql,netlify,nextjs,nodejs,npm,materialui,react,redux,stackoverflow,threejs,ts,vercel,vite&perline=12&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=js,blender,discord,figma,git,github,gitlab,gmail,graphql,heroku,html,css,jest,jquery,linkedin,mongodb,mysql,netlify,nextjs,nodejs,npm,materialui,react,redux,stackoverflow,threejs,ts,vercel,vite&perline=12&theme=dark)](https://skillicons.dev)
 
 
 

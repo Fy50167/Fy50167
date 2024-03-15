@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi! I'm Francis Yang
 
-<!--
-**Fy50167/Fy50167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&pause=1000&vCenter=true&color=000000&background=FFFFFF00&random=false&width=400&lines=Full+stack+web+developer;Learning+new+things+every+day!" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+### About me
+💻 Full Stack Web Developer graduated from UCSD and the UC Berkeley Full-Stack coding bootcamp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Continuously growing my coding skills and developing innovative features
+
+📧 Reach out to me at fy50167@gmail.com for any questions!
+
+### Skills 
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,c,cpp,discord,figma,flask,git,github,materialui,matlab,npm,postgres,r,react,redux,sqlite,threejs,ubuntu,visualstudio,vscode,blender&perline=12&theme=dark)](https://skillicons.dev)
+
+
+

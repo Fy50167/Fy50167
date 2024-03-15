@@ -12,6 +12,8 @@
 
 📧 Reach out to me at fy50167@gmail.com for any questions!
 
+🌐 Check out my portfolio website here: [Portfolio Site](http://francisyang.com)
+
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,c,cpp,discord,figma,flask,git,github,materialui,matlab,npm,postgres,r,react,redux,sqlite,threejs,ubuntu,visualstudio,vscode,blender&perline=12&theme=dark)](https://skillicons.dev)
 

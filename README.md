@@ -8,7 +8,7 @@
 ### About me
 💻 Full Stack Web Developer graduated from UCSD and the UC Berkeley Full-Stack coding bootcamp
 
-📈 Continuously growing my coding skills and developing innovative features
+📈 Currently a developer for Perimeter Platform
 
 📧 Reach out to me at fy50167@gmail.com for any questions!
 
